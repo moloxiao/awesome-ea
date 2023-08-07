@@ -8,6 +8,6 @@
 * [User Story](#user-story)
   
 ## User Story
-* [GaGa Go](#/userstory/s001/README.md)
+* [GaGa Go](/userstory/s001/README.md)
 
 
