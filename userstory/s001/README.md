@@ -4,11 +4,11 @@ This is Zoro's first week in office. Zoro is the newly appointed General Manager
 Zoro's Plan:  
 |  SN   | Desc  |
 |  ----  | ----------------  |
-| [Monday](#monday)  | TODO |
-| [Tuesday](#tuesday)  | TODO |
-| Wednesday  | TODO |
-| Thursday  | TODO |
-| Friday  | TODO |
+| [Monday](#monday)  | 划定任务范围 |
+| [Tuesday](#tuesday)  | 建立模型 |
+| [Wednesday](#wednesday)  | 案例验证及可行性分析 |
+| [Thursday][#thursday]  | 月度计划 |
+| [Friday][#friday]  | TODO |
 | Saturday  | Rest Day |
 | Sunday  | Rest Day |
 
