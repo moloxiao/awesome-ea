@@ -5,9 +5,9 @@
 > &mdash; (chorus) Welcome, I will share some user story about approaching business problems from an enterprise architecture perspective..
 
 ## Contents  
-* [User Story](#user-story)
+* [Zoro's Story](#zoro's-story)
   
-## User Story
+## Zoro's Story
 * [Zoro's First Week](/userstory/s001/README.md)
 
 
