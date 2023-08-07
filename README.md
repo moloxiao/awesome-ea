@@ -8,7 +8,7 @@
 * [Zoro's Story](#zoros-story)
   
 ## Zoro's Story
-A story of a new manager reducing operational costs.  
+A manager reducing operational costs by 5% within 6 months.  
 * [Zoro's First Week](/userstory/s001/README.md)
 
 
