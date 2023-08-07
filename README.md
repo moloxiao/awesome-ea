@@ -8,6 +8,6 @@
 * [User Story](#user-story)
   
 ## User Story
-* [Kim's First Week](/userstory/s001/README.md)
+* [Zoro's First Week](/userstory/s001/README.md)
 
 
