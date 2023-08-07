@@ -8,7 +8,7 @@ Zoro's Plan:
 | [Tuesday](#tuesday)  | 建立模型 |
 | [Wednesday](#wednesday)  | 案例验证及可行性分析 |
 | [Thursday][#thursday]  | 月度计划 |
-| [Friday][#friday]  | TODO |
+| [Friday][#friday]  | 建立数据驱动的技术规范 |
 | Saturday  | Rest Day |
 | Sunday  | Rest Day |
 
