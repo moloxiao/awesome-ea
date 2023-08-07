@@ -2,12 +2,12 @@
 
 > &mdash; Hello, my name is Shan and I'm a Developer
 >
-> &mdash; (chorus) Welcome, I will share some Enterprise Archtechture Info
+> &mdash; (chorus) Welcome, I will share something about Enterprise Archtechture.
 
 ## Contents  
 * [User Story](#user-story)
   
 ## User Story
-* [GaGa Go](/userstory/s001/README.md)
+* [Kim's First Week](/userstory/s001/README.md)
 
 
