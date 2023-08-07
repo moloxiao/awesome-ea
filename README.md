@@ -7,7 +7,8 @@
 ## Contents  
 * [Zoro's Story](#zoros-story)
   
-## Zoro's Story(A story of a new manager reducing operational costs.)
+## Zoro's Story
+A story of a new manager reducing operational costs.  
 * [Zoro's First Week](/userstory/s001/README.md)
 
 
