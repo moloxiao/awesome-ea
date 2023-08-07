@@ -4,8 +4,10 @@
 >
 > &mdash; (chorus) Welcome, I will share some Enterprise Archtechture Info
 
-## Contents
+## Contents  
+* [User Story](#user-story)
+  
+## User Story
+* [GaGa Go](#/userstory/s001/README.md)
 
- * [User Story](#user-story)
 
-## user Story
