@@ -1,6 +1,14 @@
 # Zoro's First Week
 This is Zoro's first week in office. Zoro is the newly appointed General Manager of **Seagull Lighting Factory**. In a year of intense market competition, Zoro has been tasked with streamlining the company's chaotic processes within the next **six months**, reducing the overall costs by at least **5%**, and preparing to further cut costs by **10%** **next year**.
 
+Here's user story:
+* **User Story**: As a manager, Zoro wants to establish a model to showcase the company's operational structure. Additionally, the system should be easy to modify, support collaboration, and connect to the production system to display real-time information.
+* **Role**: Manager(Zoro), IT Manager(Peter, Responsible for providing the required data in the specified format.)
+* **Requirement**: Establish a SaaS service that supports model creation, modification, collaboration, and real-time connection to the production system for data retrieval.
+* **Reason**: reducing the overall costs by at least **5%** in next six month
+* **Acceptance Criteria**: 1. After 1 to 3 months, assess the actual cost reduction. 2. Evaluate the total cost of additional investments.
+
+
 Zoro's Plan:  
 |  SN   | Desc  |
 |  ----  | ----------------  |
