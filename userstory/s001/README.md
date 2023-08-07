@@ -4,8 +4,8 @@ This is Zoro's first week in office. Zoro is the newly appointed General Manager
 Zoro's Plan:  
 |  SN   | Desc  |
 |  ----  | ----------------  |
-| Monday  | TODO |
-| Tuesday  | TODO |
+| [Monday](#monday)  | TODO |
+| [Tuesday](#tuesday)  | TODO |
 | Wednesday  | TODO |
 | Thursday  | TODO |
 | Friday  | TODO |
