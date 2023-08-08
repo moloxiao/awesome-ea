@@ -22,7 +22,13 @@ Zoro's Plan:
 
 ## Monday
 The company's business involves producing lighting products for customers. It starts with design and then goes into manufacturing. Zoro narrowed the focus to manufacturing and delivery. Zoro initiated by discussing with the IT manager, mapping out the entire business process from customer orders to shipments. The business was divided into several modules, followed by a detailed analysis of each sub-module.  
-Zoro had a fundamental idea that each segment could operate independently. Following this approach, Zoro divided the business into six functions.
+Zoro had a fundamental idea that each segment could operate independently. Following this approach, Zoro divided the business into six functions.  
+
+> MVP Tools Info Day1  
+> &mdash; Peter create a MVP SaaS Without user system.  
+> &mdash; Allow Zoro Create Function.
+
+
 ## Tuesday
 
 ## Wednesday
