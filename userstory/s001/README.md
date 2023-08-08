@@ -27,7 +27,7 @@ Zoro had a fundamental idea that each segment could operate independently. Follo
 > MVP Tools Info Day1  
 > &mdash; Peter create a MVP SaaS Without user system.  
 > &mdash; Allow Zoro Create Function.
-
+<img src="/resource/day1_001.png" alt="day1 view">
 
 ## Tuesday
 
