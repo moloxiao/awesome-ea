@@ -3,7 +3,7 @@ This is Zoro's first week in office. Zoro is the newly appointed General Manager
 
 Here's user story:
 * **User Story**: As a manager, Zoro wants to establish a model to showcase the company's operational structure. Additionally, the system should be easy to modify, support collaboration, and connect to the production system to display real-time information.
-* **Role**: Manager(Zoro), IT Manager(Peter, Responsible for providing the required data in the specified format.)
+* **Role**: Manager(Zoro)
 * **Requirement**: Establish a SaaS service that supports model creation, modification, collaboration, and real-time connection to the production system for data retrieval.
 * **Reason**: reducing the overall costs by at least **5%** in next six month
 * **Acceptance Criteria**: 1. After 1 to 3 months, assess the actual cost reduction. 2. Evaluate the total cost of additional investments.
@@ -25,11 +25,12 @@ The company's business involves producing lighting products for customers. It st
 Zoro had a fundamental idea that each segment could operate independently. Following this approach, Zoro divided the business into six functions.  
 
 > MVP Tools Info Day1  
-> &mdash; Peter create a MVP SaaS Without user system.  
+> &mdash; Zoro create a MVP SaaS Without user system.  
 > &mdash; Allow Zoro Create Function.
 <img src="/resource/day1_001.png" alt="day1 view">
 
 ## Tuesday
+Zoro plans to start by selecting one of the six sections for in-depth analysis. He aims to build and validate his own model. Zoro begins with order placement and analyzes the process of this function.
 
 ## Wednesday
 
