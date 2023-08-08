@@ -32,7 +32,7 @@ Zoro had a fundamental idea that each segment could operate independently. Follo
 ## Tuesday
 Zoro plans to start by selecting one of the six sections for in-depth analysis. He aims to build and validate his own model. Zoro begins with order placement and analyzes the process of this function.
 After a day of contemplation, Zoro completed the design of the foundational model. As shown in the diagram below:  
-<img src="/resource/day2_001.png" alt="day2 Archtecture">
+<img src="/resource/day2_001.jpg" alt="day2 Archtecture">
 
 Next day is coding day.
 ## Wednesday
