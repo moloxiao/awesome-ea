@@ -12,11 +12,11 @@ Here's user story:
 Zoro's Plan:  
 |  SN   | Desc  |
 |  ----  | ----------------  |
-| [Monday](#monday)  | 划定任务范围 |
-| [Tuesday](#tuesday)  | 建立模型 |
-| [Wednesday](#wednesday)  | 案例验证及可行性分析 |
-| [Thursday](#thursday)  | 月度计划 |
-| [Friday](#friday)  | 建立数据驱动的技术规范 |
+| [Monday](#monday)  | Define the function |
+| [Tuesday](#tuesday)  | Validation case process |
+| [Wednesday](#wednesday)  | Model Establishment |
+| [Thursday](#thursday)  | Month Plan |
+| [Friday](#friday)  | Creating Data-Driven Technical Specifications |
 | Saturday  | Rest Day |
 | Sunday  | Rest Day |
 
